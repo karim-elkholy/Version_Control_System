@@ -1,0 +1,15 @@
+#Ignore IntelliJ config directory
+/.idea/
+
+#Ignore Gradle build directory
+/.gradle/
+
+#Ignore course related files
+/*/lesson-info.yaml
+/course-remote-info.yaml
+/course-info.yaml
+
+#Ignore build directories
+/build/
+/*/task/build/
+/*/task/out/
